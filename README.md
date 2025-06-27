@@ -45,11 +45,11 @@ Pe acest mediu virtual, comparăm patru familii de agenţi: un agent cu comporta
 ---
 
 ## Structura proiect
-data/ # serii CSV generate (stock_1.csv …)
-env/ # implementări MarketEnv*
-agenti/ # Random, RuleBased, NNAgent, PPOAgent
-scripts/ # main_comparison.py, seed_sweep.py
-poze/ # grafice PNG/PDF pentru figuri
+- data/ # serii CSV generate (stock_1.csv …)
+- env/ # implementări MarketEnv*
+- agenti/ # Random, RuleBased, NNAgent, PPOAgent
+- scripts/ # main_comparison.py, seed_sweep.py
+- poze/ # grafice PNG/PDF pentru figuri
 
 
 ---
