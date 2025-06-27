@@ -1,5 +1,4 @@
 # Virtual-trading-market-NeuralNetwork-
-# Virtual Trading Gym (Disertație)
 
 Această lucrare propune un cadru complet pentru simularea şi evaluarea automată a strategiilor de tranzacţionare pe pieţe sintetice. În prima parte, definim trei modele stocastice (mișcarea geometrică browniana, Ornstein–Uhlenbeck, harta logistică) pentru generarea de serii de preţuri, apoi implementăm un mediu modular de tip Gym care suportă atât acţiuni discrete, cât şi fracţionare, cu comisioane şi perioade minime de deţinere. 
 
